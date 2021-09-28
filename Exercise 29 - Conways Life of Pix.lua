@@ -8,7 +8,7 @@ function init()
  H = 136 -- screen hight
  alive = 6 -- color of living cells
  bi = 1 -- current cell grid state
- grid = {{}, {}} -- cells 2D grid table
+ grid = {{}, {}} -- cells 2D grid tablels
  
  -- init 3D cell table
  for x = 1, W do
